@@ -15,6 +15,9 @@ modules:
       - name: "Background"
         file: "pre-survey/background.md"
         shortName: "background"
+      - name: "Attitudes"
+        file: "pre-survey/attitudes.md"
+        shortName: "attitudes"
   - name: "Lesson"
     lessons:
       - name: "Condition Training"
