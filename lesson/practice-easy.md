@@ -26,4 +26,6 @@ Enter coding activity here
 
 
 
+
+
 Great work! Click **Next** to go to Part 2 of the lesson 
